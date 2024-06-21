@@ -1,0 +1,6 @@
+- 👋 Hello! I’m Maxwell C Budd
+- 💻 I’m interested in software development
+- 💪 I have experience with debugging, new development, optimization, and data management
+- 🌱 I’m currently learning geospatial algorithms at work and Blender in my personal time
+- 💞️ I’m looking to collaborate on software project allowing work from both the EU and US, as of June 2024
+- 📫 How to reach me: maxwellcbudd at gmail com, [twitter](https://x.com/maxwellcbudd), [linkedin](https://www.linkedin.com/in/maxwellcbudd/)
